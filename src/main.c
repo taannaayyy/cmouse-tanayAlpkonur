@@ -18,7 +18,8 @@ void cmouse(){
     }
 
     signed char x, y;
-    int relativeX, relativeY=0;
+    int relativeY=0;
+    int relativeX=0;
 
     while(1)
     {
